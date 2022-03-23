@@ -1,3 +1,3 @@
 # WebScraping
 
-Place-holder for quick and dirty web scraping.
+Place-holder for quick web scraping. Text alerts by iMessage.
